@@ -5,6 +5,6 @@ source 'https://rubygems.org'
 gemspec
 
 
-    ```ruby
+    ```ruby `2.6.3p62`
     gem "github-pages", group: :jekyll_plugins
     ```
