@@ -3,10 +3,9 @@ layout: post
 title:  "Product Principles 101: A Beginners Guide"
 author: vikramadhiman
 categories: [ Startups, Product Management ]
-image: /assets/images/product-principles.jpeg
+image: /assets/images/product-principles.jpg
 featured: true
 comments: true
-date: "2022-01-12 20:00:00 +0530"
 ---
 <h2>Introduction</h2>
 
