@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What are Product Principles?"
+title:  "Product Principles 101: A Beginners Guide"
 author: vikramadhiman
 categories: [ Startups, Product Management ]
 image: /assets/images/product-principles.jpeg
