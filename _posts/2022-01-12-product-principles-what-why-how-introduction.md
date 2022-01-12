@@ -6,6 +6,7 @@ categories: [ Startups, Product Management ]
 image: /assets/images/product-principles.jpg
 featured: true
 comments: true
+date: "2022-01-11 20:00:00 +0530"
 ---
 <h2>Introduction</h2>
 
