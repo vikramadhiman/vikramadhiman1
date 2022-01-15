@@ -3,7 +3,7 @@ layout: post
 title:  "Product Principles 101 for Product Teams"
 author: vikramadhiman
 categories: [ Startups, Product Management ]
-image: /assets/images/product-principles.jpg
+image: assets/images/product-principles.jpg
 featured: true
 comments: true
 ---
