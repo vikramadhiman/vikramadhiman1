@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default_post
 title:  "Product Principles 101"
 author: vikramadhiman
 categories: [ Startups, Product Management ]
