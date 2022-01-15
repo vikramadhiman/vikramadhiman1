@@ -2,9 +2,12 @@
 
 source 'https://rubygems.org'
 
-gemspec
+ruby "2.6.3"
+
+# gem "github-pages" 
+gem "rexml", "3.2.4" 
+gem "public_suffix", "4.0.6"  
+gem "jekyll"
 
 
-    ```ruby 
-    gem "github-pages", group: :jekyll_plugins
-    ```
+   
