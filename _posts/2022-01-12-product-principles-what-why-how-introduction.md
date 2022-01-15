@@ -1,5 +1,5 @@
 ---
-layout: default_post
+layout: post
 title:  "Product Principles 101"
 author: vikramadhiman
 categories: [ Startups, Product Management ]
@@ -7,8 +7,6 @@ image: /assets/images/product-principles.jpg
 featured: true
 comments: true
 ---
-<h2>Introduction</h2>
-
 13 years back (it is 12 January 2022 today) I was working on an online learning product where we had a particularly contentious product decision. When teachers conducted a public online class, students (13-17 years old) from across the world could join it by creating an account. Now, while in a class, should we allow students to check out other students' profiles and add them to their network? On its surface, this could result in network effects (this is when FB was all the rage). However, it could also be a privacy nightmare. There were strong arguments on both sides. As the debate raged over a period of time, people became increasingly attached to their point of view and the debate reached all the way to the CEO. Do you have similar stories? Have you seen any of these in your products:
 <ul>
 	<li><strong>Do you see conflicts in prioritization?</strong></li>
