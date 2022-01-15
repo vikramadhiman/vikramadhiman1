@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Product Principles 101"
+title:  "Product Principles 101 for Product Teams"
 author: vikramadhiman
 categories: [ Startups, Product Management ]
 image: /assets/images/product-principles.jpg
@@ -26,7 +26,7 @@ Product principles are the constitution of your product and the constitution com
 	<li>Defining the milestones - check.</li>
 </ul>
 
-<p style="padding-left:20px;font-size:24px;"><em>Your principles ensure your product embraces and maintains your key values. Product principles are essential guidelines that help teams evaluate work across functions as well as up and down the decision-making chain, by ensuring all work ladders up to the organization’s ultimate goals. Your product emerges from your prioritization which emerges from a model - which includes not just impact but also principles. Improve your product principles - written and unwritten - improve your prioritization. Codify them, enforce them, guard them!
+<p style="padding-left:20px;font-size:20px;"><em>Your principles ensure your product embraces and maintains your key values. Product principles are essential guidelines that help teams evaluate work across functions as well as up and down the decision-making chain, by ensuring all work ladders up to the organization’s ultimate goals. Your product emerges from your prioritization which emerges from a model - which includes not just impact but also principles. Improve your product principles - written and unwritten - improve your prioritization. Codify them, enforce them, guard them!
 ~Ethan Eismann, VP of Product Design on <a href="https://slack.design/articles/why-your-organization-needs-product-principles/" target="_blank">Product Principles at Slack</a></em></p>
 
 Let us look at a hypothetical example of a product principle at this stage -> <em>"Be completely transparent to customers"</em>. We will use this example a little later.
@@ -120,7 +120,7 @@ More product principles here at <a href="https://www.mindtheproduct.com/applying
 	<ol><strong>Start with your product.</strong> Make sure you have a product vision and/ or mission. Also, take time out to draft the value proposition as well. It is important to be absolutely clear on what core value you will provide to your customers. Talking with users candidly can help you best understand their needs, wants and desires. Engage a cross- functional mix of your product team to contribute to this discussion.</ol>
 	<ol><strong>Start with a all the principles team can think of.</strong> Your principles should reflect your organization's approach in considering its users’ most fundamental needs, wants and desires. takes in considering its users’ most fundamental needs, wants and desires. They should map back to not just the product you want to build, but the experience you want to deliver, and ultimately the company you want to be. </ol>
 	<ol><strong>Redraft the principles.</strong> Make sure your principles are concise (1 sentence only) and that they are broadly applicable (all functions). You should stress test these principles with actual key product deadlocks of the past few months - do they help or do they not. Discard/ redraft at this stage. As would be evident, this is the critical stage of drafting product principles. You can use a template from the above examples. Typically, the principle should be self-explanatory - however, you may flesh it out with a few points/ trade-offs/ explanations as well.</ol>
-	<ol><strong>Cut the principles to 5 (plus mins 2).</strong> This is a good thumb rule. Most product organizations keep somewhere between 3-7 product principles. If you've more, figure allied themes and consider drafting a generic principle. Eventually, you'll have to prioritize with your team.
+	<ol><strong>Cut the principles to 5 (plus mins 2).</strong> This is a good thumb rule. Most product organizations keep somewhere between 3-7 product principles. If you've more, figure allied themes and consider drafting a generic principle. Eventually, you'll have to prioritize with your team.</ol>
 	<ol><strong>Evangelize and adopt.</strong> Once you've defined your product principles make sure you evangelize them carefully. At Gojek, you can access product (and design) principles via a quick Slack shortcut. All product reviews start with product principles. Initially, you may also see good success by getting volunteers to spread each principle across teams and functions.</ol>
 	<ol><strong>Get feedback.</strong> The volunteers will evangelize and  get feedback on a specific principle they pick. They will come back and share practical difficulties. I've heard feedback on the lines of 'too long to remember', 'not used many times' etc. Also, be on the lookout for situations where product principles did not help. Principles are a living instrument - a cross-functional team should help evolve product principles.</ol>
 </ul>
@@ -134,6 +134,7 @@ For instance, look at these set of principles:
 	<li>Don’t make me think (Slack)</li>
 	<li>Protect customers data at all costs (Box)</li>
 	<li>Merchants are the gateway to customers, so our products must “wow” the merchant (Pay.com)</li>
+</ul>
 
 Now, look at these principles:
 <ul>
@@ -145,6 +146,7 @@ Now, look at these principles:
 As you can see, the first set of the principles directly translate to the product attributes (<em>eg: customer transparency, sense of security</em>) while the latter describe the process attributes (<em>eg: 10x thinking, start small</em>). Is one better than another?
 
 While most product principles veer towards the process (e.g. Intercom, Gitlab - perhaps because they help the teams with day to day decision making and execution), my recommendation is that teams connect principles to their customers i.e. they work on thinking/ drafting keeping customers in mind. Principles should describe how does the customers/ users experience with the product change if the teams followed that principle. I like the Box.com template of product principles. It defines both, the principle and the trade off, clearly. The principles are written keeping the customers and clear value proposition in mind. As often, the final word on this comes from <a href="https://svpg.com/examples/" target="_blank">Marty Cagan</a>:
+
 
 <p style="padding-left:20px;font-size:24px;"><em>“Product principles refer to the nature of the product you are building, and they help you to get a much clearer picture of what you believe in and what is important.”</em></p>
 
