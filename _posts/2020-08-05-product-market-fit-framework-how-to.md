@@ -2,7 +2,7 @@
 layout: post
 title:  "Product Market Fit | A Talk by Vikrama at Yourstory Techsparks 2019"
 author: vikramadhiman
-categories: [ Videos, Product Management, Product Strategy ]
+categories: [ Videos, Product Management, Product Strategy, Speaking ]
 image: https://assets-global.website-files.com/5ae98eec19474e9f8c0cd052/5d8b4523e7740e0efe66c1ec_Techsparks-2019--home-page-image.png
 featured: true
 comments: true

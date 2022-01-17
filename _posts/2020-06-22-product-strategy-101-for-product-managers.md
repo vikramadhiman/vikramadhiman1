@@ -2,7 +2,7 @@
 layout: post
 title:  "What is Product Strategy? A Product Strategy 101 for Product Managers"
 author: vikramadhiman
-categories: [ Product Management, Videos ]
+categories: [ Product Management, Videos, Speaking ]
 image: assets/images/posts/product-strategy.jpg
 featured: true
 comments: true
