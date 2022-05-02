@@ -33,18 +33,22 @@ Summarising: A North Star metric is the one metric that’s most predictive of a
 <h2>Example: North Star for Instagram Stories!</h2>
 
 <em>Mission:</em> capture & share the world’s moments
+
 <em>CX segments:</em> Creators (influencers/ advertisers/ normal), Consumers (active/ passive)
+
 <em>Product stage:</em> Late growth
+
 <em>Takeaway:</em> Focus on creators
+
 <em>Product Flow:</em> Creators sign up/ retain due to viewers
 
 <em>North Star Attempt 1-></em>
-# of stories 
-# of active creators
-# of new creators
-# of old creators
-# of creators who post a story
-# of creators who post a story with x views
+Number of stories 
+Number of active creators
+Number of new creators
+Number of old creators
+Number of creators who post a story
+Number of creators who post a story with x views
 
 The last one meets our criteria. Let us refine this further.
 
@@ -68,9 +72,13 @@ For instance, the North Star we picked above for Instagram is heavily focused on
 I have no clue what Google search’s North Star is and I can be wildly off but will learn a thing by putting this out there.
 
 <em>Mission:</em> organise the world’s information & make it universally accessible & usable
+
 <em>CX segments:</em> Internet property owners & professionals (webmasters, marketeers, advertisers, small websites, content apps/ websites), Searchers (active/ passive - advanced/ basic - vertical segment searchers like maps/ image/ video - mobile/ web/ speakers)
+
 <em>Product stage:</em> Mature with no *direct* competitor but trends in Amazon search/ Social media
+
 <em>Takeaway:</em> Focus on searchers
+
 <em>Product Flow:</em> Quality matters. Most people don’t scroll and want the best result in the first 5 results - more important for mobile/ speakers/ maps.
 
 <em>North Star Attempt 1-></em>
@@ -95,16 +103,7 @@ The last one looks the most promising. Let us refine this further.
 2. Given the volumes of Google search, investigating queries to keep this North Star going up can be very taxing
 3. This assumes a certain layout for search results - if we show a carousel followed by listings - what constitutes top “x” search results!
 
-<h2>FAQs</h2>
-Q: Should my product area have a North Star Metric if my company has a North Star?
-A: Yes. 
-
-Q: 
-A: 
-
-Q: 
-A: 
-
+One question often asked is is a specific product area should have a North Star Metric if your company already has a North Star. You can track secondary metrics for sure but make sure you are always optimising for the primary metric. Sometimes, even the most leading indicators can take long term to show. For example, increasing engagement on stories from viewers could fit into the overall stories posted. However, an equation that establishes this should emerge to justify continuing to optimise for this metric. This becomes tricky if you are optimising for advertising. Potentially, adding more stories could decrease number of creators. Unless this does not self correct, this is likely to stop the production - consumption - monetisation cycle that social media looks at.
 
 <h2>Closing thoughts on North Star Metrics:</h2>
 1. When in doubt, pick an engagement metric
