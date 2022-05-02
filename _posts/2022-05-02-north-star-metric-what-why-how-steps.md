@@ -11,7 +11,7 @@ A skill I learned late was defining a good North Star. I see product makers pick
 
 <h2>What is a North Star? </h2>
 
-Start by literally thinking of the North Star which is used to provide direction esp for the ships. In product development, a North Star is that one metric that all experiments, features and improvements in a given product area would optimise for i.e. that one metric that helps provide direction to all the teams. It is one metric everyone in the company can use to align and measure progress.
+Start by literally thinking of the North Star which is used to provide direction esp for the ships. In product development, a North Star is that one metric that all experiments, features and improvements in a given product area would optimise for i.e. that one metric that helps provide direction to all the teams. It is one metric everyone in the company can use to align and measure progress. This is an important takeaway. North Star Metric was designed as part of the overall Growth Hacking concept by Sean Ellis.
 
 The North Star metric is a long-term metric and ideally never changes unless your company direction or situations change. You are always improving this one metric and this one metric helps you track the three key goals of the company -> customer value, revenue and growth.
 
@@ -32,24 +32,22 @@ Summarising: A North Star metric is the one metric that’s most predictive of a
 
 <h2>Example: North Star for Instagram Stories!</h2>
 
-<em>Mission:</em> capture & share the world’s moments
-
-<em>CX segments:</em> Creators (influencers/ advertisers/ normal), Consumers (active/ passive)
-
-<em>Product stage:</em> Late growth
-
-<em>Takeaway:</em> Focus on creators
-
-<em>Product Flow:</em> Creators sign up/ retain due to viewers
-
+<ul>
+<li><em>Mission:</em> capture & share the world’s moments</li>
+<li><em>CX segments:</em> Creators (influencers/ advertisers/ normal), Consumers (active/ passive)</li>
+<li><em>Product stage:</em> Late growth</li>
+<li><em>Takeaway:</em> Focus on creators</li>
+<li><em>Key Product Flow:</em> Creators sign up/ retain due to viewers</li>
+</ul>
 <em>North Star Attempt 1-></em>
-Number of stories 
-Number of active creators
-Number of new creators
-Number of old creators
-Number of creators who post a story
-Number of creators who post a story with x views
-
+<ol>
+<li>Number of stories </li>
+<li>Number of active creators</li>
+<li>Number of new creators</li>
+<li>Number of old creators</li>
+<li>Number of creators who post a story</li>
+<li>Number of creators who post a story with x views</li>
+</ol>
 The last one meets our criteria. Let us refine this further.
 
 <em>Refined Attempt 2-></em>
@@ -70,25 +68,22 @@ For instance, the North Star we picked above for Instagram is heavily focused on
 <h2>Let's do another example. What is the North Star for Google Search.</h2>
 
 I have no clue what Google search’s North Star is and I can be wildly off but will learn a thing by putting this out there.
-
-<em>Mission:</em> organise the world’s information & make it universally accessible & usable
-
-<em>CX segments:</em> Internet property owners & professionals (webmasters, marketeers, advertisers, small websites, content apps/ websites), Searchers (active/ passive - advanced/ basic - vertical segment searchers like maps/ image/ video - mobile/ web/ speakers)
-
-<em>Product stage:</em> Mature with no *direct* competitor but trends in Amazon search/ Social media
-
-<em>Takeaway:</em> Focus on searchers
-
-<em>Product Flow:</em> Quality matters. Most people don’t scroll and want the best result in the first 5 results - more important for mobile/ speakers/ maps.
-
+<ul>
+<li><em>Mission:</em> organise the world’s information & make it universally accessible & usable</li>
+<li><em>CX segments:</em> Internet property owners & professionals (webmasters, marketeers, advertisers, small websites, content apps/ websites), Searchers (active/ passive - advanced/ basic - vertical segment searchers like maps/ image/ video - mobile/ web/ speakers)</li>
+<li><em>Product stage:</em> Mature with no *direct* competitor but trends in Amazon search/ Social media</li>
+<li><em>Takeaway:</em> Focus on searchers</li>
+<li><em>Key Product Flow:</em> Quality matters. Most people don’t scroll and want the best result in the first 5 results - more important for mobile/ speakers/ maps.</li>
+</ul>
 <em>North Star Attempt 1-></em>
-Number of searches
-Number of active searchers
-Number of new searchers
-Number of old searchers
-Number of searchers who search at least once a day
-Number of searchers who click among a top x search result
-
+<ol>
+<li>Number of searches</li>
+<li>Number of active searchers</li>
+<li>Number of new searchers</li>
+<li>Number of old searchers</li>
+<li>Number of searchers who search at least once a day</li>
+<li>Number of searchers who click among a top x search result</li>
+</ol>
 The last one looks the most promising. Let us refine this further.
 
 <em>Refined Attempt 2-></em>
