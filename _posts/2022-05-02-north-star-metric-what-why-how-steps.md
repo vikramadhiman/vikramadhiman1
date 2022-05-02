@@ -21,9 +21,9 @@ A good North Star considers customer segments, the company mission, product flow
 
 The benefits of a North Star Metric:
 <ol>
-	<li><strong>Alignment:</strong>It helps align efforts across an organisation. It also ensures teams are not pulling against each other.</li>
-	<li><strong>Visibility:</strong>It helps everyone to provide visibility and transparency on how an organisation is doing, and also see how they contribute to the growth of an organisation.</li>
-	<li><strong>Bridge</strong>If selected correctly, North Star Metric helps you focus on your primary customer segment and how serving them helps the organization make money.</li>
+	<li><strong>Alignment: </strong>It helps align efforts across an organisation. It also ensures teams are not pulling against each other.</li>
+	<li><strong>Visibility: </strong>It helps everyone to provide visibility and transparency on how an organisation is doing, and also see how they contribute to the growth of an organisation.</li>
+	<li><strong>Direction: </strong>If selected correctly, North Star Metric helps you focus on your primary customer segment and how serving them helps the organization make money.</li>
 </ol> 
 
 <p style="padding-left:16px;font-size:20px;"><em>Tip: Always pick a leading indicator.</em></p>
