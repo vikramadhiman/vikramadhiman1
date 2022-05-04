@@ -100,6 +100,8 @@ The last one looks the most promising. Let us refine this further.
 
 One question often asked is is a specific product area should have a North Star Metric if your company already has a North Star. You can track secondary metrics for sure but make sure you are always optimising for the primary metric. Sometimes, even the most leading indicators can take long term to show. For example, increasing engagement on stories from viewers could fit into the overall stories posted. However, an equation that establishes this should emerge to justify continuing to optimise for this metric. This becomes tricky if you are optimising for advertising. Potentially, adding more stories could decrease number of creators. Unless this does not self correct, this is likely to stop the production - consumption - monetisation cycle that social media looks at.
 
+Another question is regarding adding check/ counter/ health metrics. These metrics usually do not qualify the North Star but you can add it to the dashboard or reports. Another technique which I have seen good success with is breaking the North Star into different segments. For instance, for our Instagram example, you could also add how does the North Star look for new creators and older creators, and even perhaps some geographies or influencers/ regular users. However, it is important to note that North Star stands on its own - that one metric we celebrate our progress and align our efforts towards.
+
 <h2>Closing thoughts on North Star Metrics:</h2>
 1. When in doubt, pick an engagement metric
 2. Good North Stars *usually* focus on ‘specific customers’ vs ‘funnels’/ ‘transactions’ (eg: creators posting a story vs # of stories posted)
@@ -108,3 +110,5 @@ One question often asked is is a specific product area should have a North Star 
 5. Practice makes you perfect. Try thinking of North Stars for tougher products - Uber’s ride hailing, Google search, Android OS.
 
 What are your best practices in picking a greater North Star? What did you think of this thread? If you liked this thread, consider bookmarking and sharing this. 
+
+Gratitude: Thank you <a href="https://twitter.com/gokulns" target="_blank">Gokul</a> and <a href="https://manassaloi.com" target="_blank">Manas</a> for reviewing and discussing the early drafts of this post.
